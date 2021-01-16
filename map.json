@@ -37,7 +37,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"..\/test-grounds.json"
+                 "value":"..\/master\/test-grounds.json"
                 }],
          "type":"tilelayer",
          "visible":true,
