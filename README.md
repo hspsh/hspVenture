@@ -1,3 +1,10 @@
+# Our new virual home.
+
+Join us by [This link](https://play.workadventu.re/_/global/hspsh.github.io/hspVenture/map.json)
+
+Original readme below. 
+
+```
 # WorkAdventure Map Starter Kit
 
 This is a starter kit to help you build your own map for [WorkAdventure](https://workadventu.re).
@@ -77,3 +84,5 @@ When your changes are ready, you need to "commit" and "push" the changes back to
 Just wait a few minutes, and your map will be propagated automatically to the GitHub pages web-server.
 
 TODO: describe how to push
+
+```
