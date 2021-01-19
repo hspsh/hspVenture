@@ -37,7 +37,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"ship.json"
+                 "value":".\/ship.json"
                 }],
          "type":"tilelayer",
          "visible":true,
