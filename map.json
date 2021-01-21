@@ -163,7 +163,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"hspsh chillroom"
+                 "value":"hspsh-chillroom"
                 }],
          "type":"tilelayer",
          "visible":true,
