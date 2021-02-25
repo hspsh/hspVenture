@@ -163,7 +163,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/meet.jit.si/hsp.sh\/"
+                 "value":"https:\/\/meet.jit.si/hsp.sh"
                 }],
          "type":"tilelayer",
          "visible":true,
